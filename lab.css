@@ -1,0 +1,23 @@
+.button-container .btn {
+    width: 150px;
+    margin: 20px;
+}
+
+.carousel {
+    width: 600px;
+    padding: 20px;
+    background-color: lightgrey;
+    height: auto;
+}
+
+.container {
+    margin: 40px;
+}
+
+.tipContainer {
+    margin: 20px;
+}
+
+.cordionContainer {
+    width: 600px;
+}
